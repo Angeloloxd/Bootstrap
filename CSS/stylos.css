@@ -1,0 +1,89 @@
+.nav {
+   width: 100px;
+}
+#div10{
+   margin: 0; 
+   background-image: url("../IMG/lol.jpg");
+   }
+   .titulo1{
+      color: white;
+      text-shadow: 2px 2px 4px #000000;
+   }
+   .parrafo1{
+      color: white;
+      text-shadow: 2px 2px 4px #000000;
+   }
+   footer{
+      background-color: red;
+      color: white;
+      text-align: center;
+   }
+#trailers{
+   text-align: center;
+}
+   body{
+      background-image: url(../IMG/HD-wallpaper-black-plain.jpg); 
+   }
+h3{
+   color: white;
+}
+p{
+   color: white;
+}
+#video1{
+   padding-left: -50%;
+
+}
+hr{
+   height: 50px;
+   color: white;
+}
+
+#calisto3{
+   background-color: black;
+   color: white;
+}
+#minecraft2{
+   background-color: black;
+   color: white;
+}
+#stalker3{
+   background-color: black;
+   color: white;
+}
+.negro{
+   color: white;
+}
+h2{
+   color: white;
+}
+h1{
+   color: white;
+}
+#negro2{
+color: white;
+}
+#div1{
+   float: left;
+   text-align: left;
+   width: 30%;
+   margin-top: 0%;
+   
+}
+#div2{
+   float: left;
+   width: 30%;
+   text-align: center;
+}
+#juegos1{
+   text-align: center;
+}
+#elden2{
+   text-align: center;
+}
+#elden3{
+   text-align: justify;
+}
+#elden4{
+   text-align: center;
+}
